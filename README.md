@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+I am software developer focused on Web development.
